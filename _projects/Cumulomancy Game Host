@@ -1,7 +1,7 @@
 ---
 name: Cumulomancy Game Host
-tools: [Unity, C#, game jam, Wwise, jackbox-style]
+tools: [Unity, C#, game jam, Wwise, Jackbox-style]
 image: https://img.itch.zone/aW1nLzIyMDg0NTk3LnBuZw==/original/KFVjKH.png
-description: The host screen component to play the jackbox-style game about deciding what clouds look like; Cumulomancy.
+description: The host screen component to play the Jackbox-style game about deciding what clouds look like; Cumulomancy.
 external_url: https://devsundae.itch.io/cumulomancy-game-view
 ---
