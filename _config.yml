@@ -10,7 +10,7 @@ open_new_tab        : true                    # Opens external URLs in new tab (
 # Projects settings
 projects: 
   sort_by: date
-  # open_new_tab: true
+
 
 ### Plugins ###
 plugins:
